@@ -1,2 +1,2 @@
 # GentlemanCoin
-New Currency created fo real Gentlemans
+New Currency created for real Gentlemans
